@@ -1,0 +1,7 @@
+step-1: cd LIProject/code/
+step-2: unzip keras.zip
+step-3: cd keras
+step-4: python setup.py install
+step-5: cd ..
+step-6: follow the steps in Link: file:///home/satya/LI/CRF++-0.58/doc/index.html#download   to download and install CRF code.  
+mallet path setup in bashrc file
